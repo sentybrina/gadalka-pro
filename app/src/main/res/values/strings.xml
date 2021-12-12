@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">GadalkaPro</string>
+    <string name="prediction_is_ready" translatable="false">Предсказание готово</string>
+    <string name="prediction_timeout_pattern" translatable="false">
+        До следующего предсказания осталось %02d:%02d:%02d
+    </string>
+</resources>
